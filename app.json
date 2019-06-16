@@ -1,0 +1,16 @@
+ {
+  "name" : "DriveApp",
+  "description" : "App for Rent a Driver",
+  "details" : "This is an app skeleton that
+      can be used to develop or integrate
+      all new customisations to
+      your Tookan Dashboard.",
+  "favicon" :  {
+  "path": "./abc.jpg"
+    },
+  "developer" : "Tookan Inc",
+  "abilities" : {
+  "side-menu" : true,
+  "sms-gateway" : true
+    }
+  }
